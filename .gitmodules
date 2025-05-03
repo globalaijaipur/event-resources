@@ -1,6 +1,3 @@
-[submodule "llm-rag-demo"]
-	path = llm-rag-demo
-	url = https://github.com/globalaijaipur/llm-rag-demo.git
 [submodule "LLMs-RAG-Webinar_2025-05-03/llm-rag-demo"]
 	path = LLMs-RAG-Webinar_2025-05-03/llm-rag-demo
 	url = https://github.com/globalaijaipur/llm-rag-demo.git
