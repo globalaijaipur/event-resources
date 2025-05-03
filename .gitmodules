@@ -1,0 +1,3 @@
+[submodule "llm-rag-demo"]
+	path = llm-rag-demo
+	url = https://github.com/globalaijaipur/llm-rag-demo.git
